@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:0,--中央台--
+#EXTINF:-1,--中央台--
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
 rtp://239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经[高清]
@@ -42,7 +42,7 @@ rtp://239.3.1.153:8136
 # rtp://239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 rtp://239.3.1.151:8144
-#EXTINF:0,--北京台--
+#EXTINF:-1,--北京台--
 #EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[高清]
 rtp://239.3.1.241:8000
 #EXTINF:-1 tvg-name="BTV新闻",BRTV新闻[高清]
@@ -71,7 +71,7 @@ rtp://239.3.1.189:8000
 rtp://239.3.1.243:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BRTV国际频道[超清]
 rtp://239.3.1.235:8000
-#EXTINF:0,--地方台--
+#EXTINF:-1,--地方台--
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视[高清]
 rtp://239.3.1.132:8012
 #EXTINF:-1 tvg-name="东方卫视",东方卫视[高清]
@@ -142,7 +142,7 @@ rtp://239.3.1.41:8140
 rtp://239.3.1.44:8184
 #EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
 rtp://239.3.1.43:8176
-#EXTINF:0,--其他--
+#EXTINF:-1,--其他--
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 rtp://239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
