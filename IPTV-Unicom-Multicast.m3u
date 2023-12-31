@@ -8,10 +8,6 @@ rtp://239.3.1.60:8084
 rtp://239.3.1.172:8001
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中央台" tvg-name="CCTV4",CCTV-4 中文国际
 rtp://239.3.1.105:8092
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4AME.png" group-title="中央台" tvg-name="CCTV4EUO",CCTV-4 中文国际 欧洲
-rtp://239.3.1.213:4220
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4EUO.png" group-title="中央台" tvg-name="CCTV4AME",CCTV-4 中文国际 美洲
-rtp://239.3.1.214:4220
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中央台" tvg-name="CCTV5",CCTV-5 体育
 rtp://239.3.1.173:8001
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中央台" tvg-name="CCTV5+",CCTV-5+ 体育赛事
@@ -55,16 +51,12 @@ rtp://239.3.1.242:8000
 rtp://239.3.1.116:8000
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="北京台" tvg-name="BTV生活",北京生活
 rtp://239.3.1.117:8000
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/北京青年.png" group-title="北京台" tvg-name="BTV青年",北京青年
-rtp://239.3.1.118:8000
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京台" tvg-name="BTV科教",北京纪实科教
 rtp://239.3.1.115:8000
 #EXTINF:-1 group-title="北京台" tvg-name="北京纪实",北京冬奥纪实
 rtp://239.3.1.243:8000
 #EXTINF:-1 group-title="北京台" tvg-name="该频道节目单尚无",北京体育休闲
 rtp://239.3.1.243:8000
-#EXTINF:-1 group-title="北京台" tvg-name="该频道节目单尚无",北京国际频道
-rtp://239.3.1.235:8000
 #EXTINF:-1,--地方台--
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="地方台" tvg-name="湖南卫视",湖南卫视
 rtp://239.3.1.132:8012
